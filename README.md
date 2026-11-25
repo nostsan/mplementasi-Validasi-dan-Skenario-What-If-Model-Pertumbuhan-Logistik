@@ -1,0 +1,1 @@
+# mplementasi-Validasi-dan-Skenario-What-If-Model-Pertumbuhan-Logistik
